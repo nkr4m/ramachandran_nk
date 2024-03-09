@@ -1,0 +1,12 @@
+.page-header{
+    background-image: url('../../../public/assets/img/heatmap02.png');
+}
+
+.avtar{
+    height: 210px;
+    width: 210px;
+}
+
+.dark{
+    background-color: black;
+}
